@@ -15,9 +15,9 @@ the app will split them so fast and in a coherant way
 
 
 use:
-'ctrl+p' ==> multiple choice
-'ctrl+o' ==> unique choice
-'ctrl+i' ==> yes or no question
+* 'ctrl+p' ==> multiple choice
+* 'ctrl+o' ==> unique choice
+* 'ctrl+i' ==> yes or no question
 
 ## requirements
 1. tkinter ==> Tk from tkinter (it came préinstalled with python )
